@@ -102,7 +102,7 @@ where `/path/to/detections/` is a folder containing the model output on the trai
 Parts of this code are based on Tensorpack (https://github.com/tensorpack/tensorpack/tree/master/examples/FasterRCNN) and RETURNN (https://github.com/rwth-i6/returnn/blob/master/Log.py).
 
 ## Citation
-If you use this code, please cite:
+MOst of the code was provided by the following
 ```
 @inproceedings{Voigtlaender19CVPR_MOTS,
  author = {Paul Voigtlaender and Michael Krause and Aljosa Osep and Jonathon Luiten and Berin Balachandar Gnana Sekar and Andreas Geiger and Bastian Leibe},
@@ -114,8 +114,3 @@ If you use this code, please cite:
 
 ## License
 MIT License
-
-## Contact
-If you find a problem in the code, please open an issue.
-
-For general questions, please contact Paul Voigtlaender (voigtlaender@vision.rwth-aachen.de) or Michael Krause (michael.krause@rwth-aachen.de)
